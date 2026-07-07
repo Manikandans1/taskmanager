@@ -189,3 +189,8 @@ Outputs static files to `frontend/dist/` — this was verified to build cleanly.
 - Passwords are hashed with BCrypt before storage; the raw password is never stored or logged.
 - The AI Suggest feature is fully optional per task — the user can always type their own
   description and pick their own priority instead of using it.
+
+## Live Demo
+- **Frontend:** https://taskmanager-phi-khaki.vercel.app
+- **Backend API:** https://taskmanager-ydl9.onrender.com/api
+- **GitHub Repo:** https://github.com/Manikandans1/taskmanager
